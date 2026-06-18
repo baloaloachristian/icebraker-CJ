@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,city,region,signup_date,total_orders,total_spent
+21,Lily,Chua,lily.chua@email.com,Manila,NCR,2025-01-05,2,5600
+22,Mark,Reyes,mark.reyes@email.com,Cebu City,Visayas,2025-01-12,1,2500
+23,Sarah,David,sarah.david@email.com,Davao City,Mindanao,2025-02-01,3,12800
+24,James,Lim,james.lim@email.com,Quezon City,NCR,2025-02-15,1,850
+25,Anne,Tan,anne.tan@email.com,Iloilo City,Visayas,2025-03-01,2,7200
