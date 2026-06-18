@@ -24,7 +24,7 @@ WHERE region = 'Visayas'
 
 SELECT sale_date, customer_name, product_name, total_amount
 FROM sales
-WHERE sale_date >= '2025-04-01'
+WHERE sale_date BETWEEN '2025-04-01'
   AND sale_date < '2025-07-01'
 ORDER BY sale_date DESC;
 
