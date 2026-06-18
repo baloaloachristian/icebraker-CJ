@@ -1,8 +1,3 @@
-
-Nerissa A. Sonajo <sonajonerissa4@gmail.com>
-10:21 AM (46 minutes ago)
-to me
-
 -- (Create the PRACTICE table first using the columns/types above, then:)
 CREATE TABLE PRACTICE (
     id SERIAL PRIMARY KEY,
